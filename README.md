@@ -52,7 +52,7 @@ Here are the renders of the 4-layer PCB design and a 3D model of the assembled b
 
 
 **Bottom Layer View**
-*The bottom layer houses passive components, the RF matching network, and the LiPo charger circuit.*
+*The bottom layer has the LiPo Battery Connector.*
 <img width="1412" height="421" alt="image" src="https://github.com/user-attachments/assets/373b2638-4ee2-4979-9ae9-0475a17a02f4" />
 
 
