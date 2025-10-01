@@ -63,7 +63,8 @@ Here are the renders of the 4-layer PCB design and a 3D model of the assembled b
 
 **3D Render**
 *A 3D render of the assembled board provides a complete view of the final product.*
-<img width="1880" height="783" alt="image" src="https://github.com/user-attachments/assets/417f6efa-574b-4c5d-a1a2-85e74a86f377" />
+<img width="1771" height="510" alt="image" src="https://github.com/user-attachments/assets/e0b06138-8e14-4d42-ba6f-f114eb964faa" />
+
 
 
 ---
