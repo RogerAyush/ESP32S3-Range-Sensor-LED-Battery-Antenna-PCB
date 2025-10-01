@@ -32,12 +32,12 @@ Connect via **USB-C** and press the **BOOT** switch to program using **ESP-IDF**
 - **3D Renders**: STEP models and layer views (top/bottom/inners) for detailed inspection.
 - **Firmware Snippets**: Basic **ESP-IDF** examples for camera initialization, ToF polling, and Wi-Fi streaming.
 
-![ESP32 with CAM and ToF - Full Schematic](Print.pdf)  
+![Print_page-0001](https://github.com/user-attachments/assets/b8ad897a-7db4-44ed-830a-3c2b15100c1e)
 *(Comprehensive schematic from Altium, including battery charger, voltage regulators, power switching, camera/ToF connectors, and supporting circuits.)*
 
 For layer details, refer to the PDF: top layer features **ESP32** and connectors; inner layers handle power and ground planes; bottom layer includes **RF** and passives.
 
 ## 📅 **Status & Next Steps**
-Design is complete and Gerber-ready as of **October 1, 2025**. Prototypes are in production—expect assembly and validation tests (camera focus, ToF accuracy, battery runtime) by month-end. Version 2 will include the **ToF flex PCB** and potential **IMU expansion**.
+Design is complete and Gerber-ready as of **October 1, 2025**. Version 2 will include the **ToF flex PCB** and potential **FPC expansion**.
 
 Download the files, fabricate a board, and explore applications like drone vision or smart mirrors. Contributions via issues or pull requests are welcome. For questions, reach out.
